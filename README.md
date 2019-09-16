@@ -1,18 +1,18 @@
-### `CRUD FEITO COM REACT-REDUX`
+## `CRUD FEITO COM REACT-REDUX`
 
-### `REQUISITOS`
-  ## npm
+## `REQUISITOS`
+  ### npm
   
 
-### `TECNOLOGIAS`
-  ## xios
-  ## bootstrap
-  ## font-awesome
-  ## react-router
-  ## react-router-dom
-  ## react
-  ## react-dom
-  ## react-scripts
+## `TECNOLOGIAS`
+  ### xios
+  ### bootstrap
+  ### font-awesome
+  ### react-router
+  ### react-router-dom
+  ### react
+  ### react-dom
+  ### react-scripts
 
 ## Available Scripts
 
